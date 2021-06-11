@@ -1,7 +1,7 @@
 <?php
 
 
-/Mathod 1  
+//Method 1  
 $a[0] = 10;
 $a['A'] ="Venkey";
 $a['php'] = "Web Devlopment";
